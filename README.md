@@ -26,3 +26,9 @@ Sample data is available in the folder. For full dataset
 1. Clone the repository:
 ```bash
 git clone https://github.com/<Snehal-Bansode>/ArNitaInfotech_Data-Sci_Project.git
+
+
+Author
+
+Name: Snehal
+Internship: Arnita Infotech
